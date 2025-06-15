@@ -1,0 +1,23 @@
+Pasos que realicé:
+
+Cree una aplicación que requiere 'Express'. Como Express es un paquete => lo primero que hice fue abrir la terminal con ctrl+ñ y:
+1. Introducir el comando "npm init" .
+2. Cuando me aparece que ponga algo en "package name (curso-de-express)" => puse "servidor-express" y presioné 'enter'.
+3. En "version: (1.0.0)", presioné 'enter'.
+4. En "description:" puse "Mi primer servidor creado con Node.js y Express" y dí enter.
+5.En "entry point: (index.js)" puse "app.js" y enter.
+6. En "test command:" solo le dí a enter.
+7. En "git repository:" solo enter.
+8. En "keywords:" solo enter.
+9. En "author:" ingresé "freeCodeCamp" y enter.
+10. En "license: (ISC)" lo dejé tal cual y presioné enter.
+11. Después me preguntó si todo estaba ok => dí enter y leestoreti.
+Con todo esos pasos se habría creado el archivo "package.json", si ingresas vas a ver que contiene los datos que ibas introduciendo en los pasos previos.
+
+Lo siguiente que hice fue reabrir la terminal, y como sabía que necesitaría 'Express' => lo instalé:
+1. "npm install express" y enter.
+Con esto apareció la carpeta "node_modules" y el archivo "package-lock.json".
+
+
+
+Archivo "index.http", sirve para poder trabajar/simular las solicitudes. Si bien la solicitud "get" la podemos simular recargando la pagina en el 'browser', otras como POST, DELETE, etc. las podemos simular en "index.http".

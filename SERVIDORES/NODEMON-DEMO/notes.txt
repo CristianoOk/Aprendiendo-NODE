@@ -1,0 +1,4 @@
+Para poder usar "nodedemo", lo instalé de forma global. Para ello ejecuté en el terminal la sentencia "npm install -g nodemon".
+Con esto ya no hace falta 'to kill' el servidor cada vez que realice un cambio, tipo antes cuando hacia un cambio debia terminar el proceso e ingresar de nuevo "node app.js" en el terminal, por ejemplo. Ahora basta con actualizar la pagina en el browser y se actualizan los cambios, algo parecido a 'react'.
+
+Tenés que acordarte de ejecutar "nodemon app.js" en el terminal, pero no en powershell, sino, en "Command Promp" (Lo vas a encontrar cuando abrás la terminal cusando ctrl+ñ y accediendo al terminal, una vez ahí en la parte de arriba dode aparece un tachito de basura y también "powershell", vas a encontrar un "+" con una punta de flecha hacia a bajo, precionás ahí y te sale la opción "Comand Prompt").

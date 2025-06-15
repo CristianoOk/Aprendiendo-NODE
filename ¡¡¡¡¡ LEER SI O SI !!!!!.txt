@@ -1,0 +1,17 @@
+Se instaló de forma global "nodemos", por lo tanto puede ser (PUEDE SER) que no te deje ejecutar en el terminal sentencias como "node app.js", tendrás que seguir las siguientes instrucciones y hacerlo de otra forma:
+
+Hay una carpeta donde se empezó a usar esto "../SERVIDORES/NODEMO-DEMO"
+
+Tenés que acordarte de ejecutar "nodemon app.js" en el terminal, pero no en powershell, sino, en "Command Promp" (Lo vas a encontrar cuando abrás la terminal cusando ctrl+ñ y accediendo al terminal, una vez ahí en la parte de arriba dode aparece un tachito de basura y también "powershell", vas a encontrar un "+" con una punta de flecha hacia a bajo, precionás ahí y te sale la opción "Comand Prompt").
+
+Los archivos fueron creados en el siguiente orden:
+index.html.
+app.js.
+saludos.js.
+json.
+mi-paquete.
+eventos.
+promesas(se usan callbacks).
+SERVIDORES.
+¡¡¡¡¡ leer si o si !!!!.txt.
+curso de express.
